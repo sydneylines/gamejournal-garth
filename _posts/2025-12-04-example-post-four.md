@@ -5,7 +5,7 @@ category: Koriko
 
 #Chapter 1: The Start
 
-![title](/assets/dice-logo.png)
+<img src="assets/dice-logo.png" alt="alt text">
 
 A bunch of stuff here about the start of the game. 
 
