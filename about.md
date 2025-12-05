@@ -2,6 +2,8 @@
 title: About
 ---
 
+Main site image by <a href="https://pixabay.com/users/satyress-3829110/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8982667">Satyress</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8982667">Pixabay</a>
+
 A really basic theme for Jekyll, using the official Jekyll theme implementation.
 
 - [Fork on GitHub](https://github.com/daviddarnes/garth)
