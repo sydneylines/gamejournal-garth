@@ -1,5 +1,5 @@
 ---
-title: Koriko: Chapter 1
+title: Koriko - Chapter 1
 category: Koriko
 ---
 
