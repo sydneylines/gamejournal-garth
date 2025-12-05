@@ -12,3 +12,5 @@ A bunch of stuff here about the start of the game.
 <!-- more -->
 
 And then even more stuff here. 
+
+![title](/assets/dice-logo.png)
